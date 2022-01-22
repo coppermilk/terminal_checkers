@@ -1,0 +1,20 @@
+﻿  UserInput.cpp
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.h(27,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.h(28,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.h(61,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.h(62,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.h(90,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.cpp(92,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.cpp(97,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.cpp(98,50): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.cpp(175,89): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.cpp(180,87): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.h(27,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.h(28,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.h(61,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.h(62,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\UserInput.h(90,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\New\source\repos\mycheckers_3\mycheckers_3\main.cpp(29,35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  mycheckers_3.vcxproj -> C:\Users\New\source\repos\mycheckers_3\x64\Debug\mycheckers_3.exe
